@@ -1,0 +1,25 @@
+notebooks:
+  - name: connecting
+    path: /jupyter/examples/Connecting_with_the_Qt_Console.ipynb
+    publish: true
+  - name: custom
+    path: /jupyter/examples/Custom_Keyboard_Shortcuts.ipynb
+    publish: true
+  - name: importing
+    path: /jupyter/examples/Importing_Notebooks.ipynb
+    publish: true
+  - name: notebook
+    path: /jupyter/examples/Notebook_Basics.ipynb
+    publish: true
+  - name: running
+    path: /jupyter/examples/Running_Code.ipynb
+    publish: true
+  - name: typesetting
+    path: /jupyter/examples/Typesetting_Equations.ipynb
+    publish: true
+  - name: what
+    path: /jupyter/examples/What_is_the_Jupyter_Notebook.ipynb
+    publish: true
+  - name: working
+    path: /jupyter/examples/Working_With_Markdown_Cells.ipynb
+    publish: true
