@@ -1,3 +1,4 @@
+version: 1.2
 notebooks:
   - name: connecting
     path: /jupyter/examples/Connecting_with_the_Qt_Console.ipynb
