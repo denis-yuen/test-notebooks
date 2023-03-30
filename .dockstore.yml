@@ -24,3 +24,16 @@ notebooks:
   - name: working
     path: /jupyter/examples/Working_With_Markdown_Cells.ipynb
     publish: true
+  - name: ibm-senegal
+    path: /ibm-et/jupyter-samples/united-nations/senegal_population_trends.ipynb
+    publish: true
+  - name: ibm-tax-maps
+    path: /ibm-et/jupyter-samples/tax-maps/Interactive_Data_Maps.ipynb
+    publish: true
+  - name: ibm-airline
+    path: /ibm-et/jupyter-samples/airline/Exploration_of_Airline_On-Time_Performance.ipynb
+    publish: true
+  - name: ibm-mlb
+    path: /ibm-et/jupyter-samples/mlb/mlb-salaries.ipynb
+    publish: true
+
