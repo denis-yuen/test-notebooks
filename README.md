@@ -1,4 +1,4 @@
-example notebook files adapted from
+This repo contains sample notebook files adapted from:
 
 The Jupyter project
 [github](https://github.com/jupyter/notebook/tree/main/docs/source/examples/Notebook)
