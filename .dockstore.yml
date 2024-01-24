@@ -30,6 +30,8 @@ notebooks:
   - name: ibm-tax-maps
     path: /ibm-et/jupyter-samples/tax-maps/Interactive_Data_Maps.ipynb
     publish: true
+    authors:
+      - orcid: 0000-0002-6130-1021    
   - name: ibm-airline
     path: /ibm-et/jupyter-samples/airline/Exploration_of_Airline_On-Time_Performance.ipynb
     publish: true
